@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Anaxes, and I am an aspiring Verified Discord Bot Developer.
+My name is Anaxes, and I am an aspiring Discord Bot Developer.
 
 
 - 🔭 I’m currently working on Potatoe Bot
