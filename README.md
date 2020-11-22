@@ -1,5 +1,6 @@
 ### Hi there 👋
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DiscordAnaxes&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiscordAnaxes&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 My name is Anaxes, and I am a Verified Discord Bot Developer.
 
