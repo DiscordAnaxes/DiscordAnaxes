@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DiscordAnaxes&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anaxes' github stats](https://github-readme-stats.vercel.app/api?username=DiscordAnaxes&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiscordAnaxes)](https://github.com/anuraghazra/github-readme-stats)
 
 My name is Anaxes, and I am a Verified Discord Bot Developer.
@@ -11,3 +11,4 @@ My name is Anaxes, and I am a Verified Discord Bot Developer.
 - 📫 How to reach me: DiscordAnaxes on twitter and Anaxes#3274 on Discord.
 - 😄 Pronouns: He/Him
 - 🔗 Website: https://anaxes.xyz & https://pb.anaxes.xyz
+- 🥅 Goals: Contribute to more open source developments by 2022.
