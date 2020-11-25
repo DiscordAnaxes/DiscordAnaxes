@@ -12,7 +12,7 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiscordAnaxes&layout=compact&theme=radical" alt="DiscordAnaxes" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DiscordAnaxes&show_icons=true&theme=radical" alt="DiscordAnaxes" /></p>
-<p alighn="center">&nbsp;<img align="center" src="https://discord.c99.nl/widget/theme-3/567885938160697377.png" alt="DiscordAnaxes" /></p>
+<p align="center">&nbsp;<img align="center" src="https://discord.c99.nl/widget/theme-3/567885938160697377.png" alt="DiscordAnaxes" /></p>
 
 <br>
 <p align="center">
