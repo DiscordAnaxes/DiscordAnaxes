@@ -2,7 +2,7 @@
 <h3 align="center">Young Verified Discord Bot Developer, who has an interest in Web Development.</h3>
 
 
-- 👨‍💻 My Personal Website is available @ **[anaxes.xyz](https://anaxes.xyz)** & My Portfolio is available @ **[portfolio.anaxes.xyz](https://portfolio.anaxes.xyz)**
+- 👨‍💻 My Personal Website can be found @ **[anaxes.xyz](https://anaxes.xyz)** & My Portfolio is available @ **[portfolio.anaxes.xyz](https://portfolio.anaxes.xyz)**
 
 - 📫 You can reach me @ **[anaxesoce@gmail.com](mailto:anaxesoce@gmail.com)**
 
