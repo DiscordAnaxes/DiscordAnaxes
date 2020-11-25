@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Anaxes</h1>
+<h1 align="center">Hey 👋, Anaxes here.</h1>
 <h3 align="center">Young Verified Discord Bot Developer, who has an interest in Web Development.</h3>
 
 
