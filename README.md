@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Anaxes</h1>
 <h3 align="center">I'm an avid front end web developer and also interested in bot development!</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?usernameDiscordAnaxes" alt="DiscordAnaxes" /> </p>
+![](https://komarev.com/ghpvc/?username=DiscordAnaxes)
 
 - 👨‍💻 All of my projects are available at **[https://anaxes.xyz](https://anaxes.xyz)**
 
