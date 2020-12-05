@@ -1,5 +1,7 @@
 <h1 align="center">Hey 👋, Anaxes here.</h1>
 <h3 align="center">Young Verified Discord Bot Developer, who has an interest in Web Development.</h3>
+![](https://komarev.com/ghpvc/?username=DiscordAnaxes)
+
 
 
 - 👨‍💻 My Personal Website can be found @ **[anaxes.xyz](https://anaxes.xyz)** & My Portfolio can be found @ **[portfolio.anaxes.xyz](https://portfolio.anaxes.xyz)**
