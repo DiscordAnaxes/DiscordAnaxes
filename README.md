@@ -4,7 +4,7 @@
 
 <p align="center">&nbsp;<img align="center" src="https://komarev.com/ghpvc/?username=DiscordAnaxes" alt=DiscordAnaxes" /></p>
 
-- 👨‍💻 My Personal Website can be found @ **[anaxes.xyz](https://anaxes.xyz)** & My Portfolio can be found @ **[portfolio.anaxes.xyz](https://portfolio.anaxes.xyz)**
+- 👨‍💻 My Personal Website can be found @ **[anaxes.xyz](https://anaxes.xyz)**
 
 - 📫 You can reach me @ **[anaxesoce@gmail.com](mailto:anaxesoce@gmail.com)**
 
