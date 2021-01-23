@@ -3,13 +3,13 @@
 
 
 <p align="center">
-  <a href="https://github.com/mynameismax">
+  <a href="https://github.com/DiscordAnaxes">
     <img src="https://komarev.com/ghpvc/?username=DiscordAnaxes&style=flat-square&label=Profile%20Views&logo=github" alt="Profile View Count"/>
   </a>
-  <a href="https://discord.com/users/234464614996246529">
+  <a href="https://discord.com/users/567885938160697377">
     <img src="https://img.shields.io/badge/Discord-Anaxes%233274-%237289da?logo=discord&style=flat-square" alt="Discord: Anaxes#3274"/>
   </a>
-  <a href="https://twitter.com/mynameismrtime">
+  <a href="https://twitter.com/DiscordAnaxes">
     <img src="https://img.shields.io/badge/Twitter-DiscordAnaxes-%231DA1F2?logo=twitter&style=flat-square" alt="Twitter: DiscordAnaxes"/>
   </a>
 </p>
