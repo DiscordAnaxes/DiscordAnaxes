@@ -2,7 +2,17 @@
 <h3 align="center">Young Verified Discord Bot Developer, who has an interest in Web Development.</h3>
 
 
-<p align="center">&nbsp;<img align="center" src="https://komarev.com/ghpvc/?username=DiscordAnaxes" alt=DiscordAnaxes" /></p>
+<p align="center">
+  <a href="https://github.com/mynameismax">
+    <img src="https://api.ghprofile.me/view?username=DiscordAnaxes&style=flat-square&label=Profile%20Views&logo=github" alt="Profile View Count"/>
+  </a>
+  <a href="https://discord.com/users/234464614996246529">
+    <img src="https://img.shields.io/badge/Discord-Anaxes%233274-%237289da?logo=discord&style=flat-square" alt="Discord: Anaxes#3274"/>
+  </a>
+  <a href="https://twitter.com/mynameismrtime">
+    <img src="https://img.shields.io/badge/Twitter-DiscordAnaxes-%231DA1F2?logo=twitter&style=flat-square" alt="Twitter: DiscordAnaxes"/>
+  </a>
+</p>
 
 
 - 👨‍💻 My Personal Website can be found @ **[anaxes.xyz](https://anaxes.xyz)**
