@@ -3,13 +3,7 @@
 
 
 <p align="center">&nbsp;<img align="center" src="https://komarev.com/ghpvc/?username=DiscordAnaxes" alt=DiscordAnaxes" /></p>
-          <div>
-            <img style="height: 22px" src="https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/567885938160697377?simple=true" alt="status" title="status" loading="lazy">
-            <img style="height: 22px" src="https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/567885938160697377" alt="playing" title="current game" loading="lazy">
-            <img style="height: 22px" src="https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/567885938160697377" alt="vscode" title="coding in VS Code" loading="lazy">
-            <img style="height: 22px" src="https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/intellij/567885938160697377" alt="intellij" title="coding in IntelliJ IDEA" loading="lazy">
-            <a href="https://dev.discordprofiles.me/openspotify/567885938160697377" target="_blank" rel="noopener"><img style="height: 22px" src="https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/567885938160697377" alt="spotify" title="listening with Spotify" loading="lazy"></a>
-          </div>
+
 
 - 👨‍💻 My Personal Website can be found @ **[anaxes.xyz](https://anaxes.xyz)**
 
