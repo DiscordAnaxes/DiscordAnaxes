@@ -29,10 +29,10 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Node.JS-black?style=for-the-badge&logo=node.js" />
 <img src="https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=HTML5" />
-![CSS3](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=CSS3)
-![Javascript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript)
-![Vue](https://img.shields.io/badge/Vue-black?style=for-the-badge&logo=Vue.js)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+<img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=CSS3" />
+<img src="https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript" />
+<img src="https://img.shields.io/badge/Vue-black?style=for-the-badge&logo=Vue.js" />
+<img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react" />
 </p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiscordAnaxes&layout=compact&theme=radical" alt="DiscordAnaxes" /></p>
