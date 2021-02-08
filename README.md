@@ -15,9 +15,10 @@
 </p>
 
 
-- 👨‍💻 My Personal Website can be found @ **[anaxes.xyz](https://anaxes.xyz)**
+- 🖥 I am currently a manager, web developer and bot developer for **[Blurple Development](https://blurple.gg)**
+- 🌍 My Personal Website can be found @ **[anaxes.xyz](https://anaxes.xyz)**
 
-- 📫 You can reach me @ **[anaxesoce@gmail.com](mailto:anaxesoce@gmail.com)**
+- 📨 You can reach me @ **[anaxesoce@gmail.com](mailto:anaxesoce@gmail.com)**
 
 - 📰 You can find my resume @ **[Anaxes' Resume](https://docs.google.com/document/d/1ZZ7ePeJcYf9sR1IBVL3Xn68CFiTX_S7nr_5bWBvPAp8/edit?usp=sharing)**
 
