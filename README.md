@@ -15,18 +15,25 @@
 </p>
 
 
-- 🖥 I am currently a manager, web developer and bot developer for **[Blurple Development](https://blurple.gg)**
-- 🌍 My Personal Website can be found @ **[anaxes.xyz](https://anaxes.xyz)**
+- 🖥 I am currently a manager, web developer and bot developer for **[Blurple Development](https://blurple.gg)**.
+- 🌍 My Personal Website can be found @ **[anaxes.xyz](https://anaxes.xyz)**.
 
-- 📨 You can reach me @ **[anaxesoce@gmail.com](mailto:anaxesoce@gmail.com)**
+- 📨 You can reach me @ **[anaxesoce@gmail.com](mailto:anaxesoce@gmail.com)**.
 
-- 📰 You can find my resume @ **[Anaxes' Resume](https://docs.google.com/document/d/1ZZ7ePeJcYf9sR1IBVL3Xn68CFiTX_S7nr_5bWBvPAp8/edit?usp=sharing)**
+- 📰 You can find my resume @ **[Anaxes' Resume](https://docs.google.com/document/d/1ZZ7ePeJcYf9sR1IBVL3Xn68CFiTX_S7nr_5bWBvPAp8/edit?usp=sharing)**.
 
 - ⭐ My goal for 2021 is to contribute to more open source projects.
 
 <br>
 <h1 align="center">🛠️ Tools I work with</h1>
-<p align="center"><img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>     <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>     <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>   <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>   <img src="https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/>   <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/></p>
+<p align="center">
+![NodeJS](https://img.shields.io/badge/Node.JS-black?style=for-the-badge&logo=node.js)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=HTML5)
+![CSS3](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=CSS3)
+![Javascript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript)
+![Vue](https://img.shields.io/badge/Vue-black?style=for-the-badge&logo=Vue.js)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+</p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiscordAnaxes&layout=compact&theme=radical" alt="DiscordAnaxes" /></p>
 
