@@ -25,7 +25,10 @@
 - ⭐ My goal for 2021 is to contribute to more open source projects.
 
 <br>
-<h1 align="center">🛠️ Tools I work with</h1>
+<details open>
+<summary>🛠 <b>Software</b></summary>
+<p>
+
 <p align="center">
 <img src="https://img.shields.io/badge/Node.JS-black?style=for-the-badge&logo=node.js" />
 <img src="https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=HTML5" />
@@ -37,6 +40,7 @@
 <img src="https://img.shields.io/badge/Photoshop-black?style=for-the-badge&logo=Adobe%20Photoshop" />
 <img src="https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows" />
 </p>
+</details>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiscordAnaxes&layout=compact&theme=radical" alt="DiscordAnaxes" /></p>
 
