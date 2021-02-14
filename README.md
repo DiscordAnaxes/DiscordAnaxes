@@ -25,6 +25,9 @@
 - ⭐ My goal for 2021 is to contribute to more open source projects.
 
 <br>
+
+---
+
 <details open>
 <summary>🛠 <b>Software</b></summary>
 <p>
