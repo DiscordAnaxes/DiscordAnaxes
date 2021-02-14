@@ -35,6 +35,7 @@
 <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react" />
 <img src="https://img.shields.io/badge/Font%20Awesome-black?style=for-the-badge&logo=Font%20Awesome" />
 <img src="https://img.shields.io/badge/Photoshop-black?style=for-the-badge&logo=Adobe%20Photoshop" />
+<img src="https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows" />
 </p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiscordAnaxes&layout=compact&theme=radical" alt="DiscordAnaxes" /></p>
