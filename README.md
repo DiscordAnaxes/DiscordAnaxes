@@ -26,6 +26,11 @@
 
 <br>
 
+<details>
+  <summary>⚡ GitHub Activity and Statistics</summary> 
+  <img src="https://github-readme-stats.vercel.app/api?username=DiscordAnaxes&count_private=true&show_icons=true&theme=radical" />
+</details>
+
 ---
 
 <details open>
@@ -45,12 +50,7 @@
 </p>
 </details>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiscordAnaxes&layout=compact&theme=radical" alt="DiscordAnaxes" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DiscordAnaxes&show_icons=true&theme=radical" alt="DiscordAnaxes" /></p>
-<p align="center">&nbsp;<img align="center" src="https://discord.c99.nl/widget/theme-3/567885938160697377.png" alt="DiscordAnaxes" /></p>
-
-<br>
 <p align="center">
 <a href="https://twitter.com/DiscordAnaxes" target="_blank"><img alt="Twitter" title="Twitter" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://dsc.bio/anaxes" target="_blank"><img alt="Discord" title="Discord" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
