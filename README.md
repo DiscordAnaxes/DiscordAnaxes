@@ -34,7 +34,7 @@
 ---
 
 <details open>
-<summary>🛠 <b>Software</b></summary>
+<summary>🛠 <b>Tools I've used</b></summary>
 <p>
 
 <p align="center">
