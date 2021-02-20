@@ -27,7 +27,7 @@
 <br>
 
 <details>
-  <summary>⚡ GitHub Activity and Statistics</summary> 
+  <summary>⚡ GitHub Statistics</summary> 
   <img src="https://github-readme-stats.vercel.app/api?username=DiscordAnaxes&count_private=true&show_icons=true&theme=tokyonight" />
 </details>
 
