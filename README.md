@@ -16,6 +16,9 @@
 
 
 - 🖥 I am currently a manager, web developer and bot developer for **[Blurple Development](https://blurple.gg)**.
+
+- 🔨 My current project is **[widget.style](https://widget.style)**. 
+
 - 🌍 My Personal Website can be found @ **[anaxes.xyz](https://anaxes.xyz)**.
 
 - 📨 You can reach me @ **[anaxesoce@gmail.com](mailto:anaxesoce@gmail.com)**.
