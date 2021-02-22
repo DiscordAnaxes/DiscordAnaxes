@@ -32,6 +32,10 @@
 <details>
   <summary>⚡ GitHub Statistics</summary> 
   <img src="https://github-readme-stats.vercel.app/api?username=DiscordAnaxes&count_private=true&show_icons=true&theme=tokyonight" />
+  <p> 
+<!--START_SECTION:waka--> 
+<!--END_SECTION:waka-->
+</p>
 </details>
 
 ---
