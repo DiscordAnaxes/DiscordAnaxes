@@ -33,11 +33,7 @@
   <summary>⚡ GitHub Statistics</summary> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api?username=DiscordAnaxes&count_private=true&show_icons=true&theme=tokyonight" />
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=discordanaxes&theme=tokyonight" />
 </details>
 
 ---
