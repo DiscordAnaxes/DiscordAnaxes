@@ -35,9 +35,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=DiscordAnaxes&count_private=true&show_icons=true&theme=tokyonight" />
 <!--START_SECTION:waka-->
 ```text
-
 No Activity tracked this Week
-
 ```
 <!--END_SECTION:waka-->
 </details>
