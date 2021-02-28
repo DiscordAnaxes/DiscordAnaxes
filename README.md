@@ -35,6 +35,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=DiscordAnaxes&count_private=true&show_icons=true&theme=tokyonight" />
 <!--   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=DiscordAnaxes&theme=tokyonight" /> -->
 <!--START_SECTION:waka-->
+```text
+JavaScript   11 mins         ██████████▒░░░░░░░░░░░░░░   41.94 % 
+Git Config   9 mins          ████████▒░░░░░░░░░░░░░░░░   33.88 % 
+JSON         4 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+CSS          2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
+```
 <!--END_SECTION:waka-->
 </details>
 
