@@ -35,7 +35,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=DiscordAnaxes&count_private=true&show_icons=true&theme=tokyonight" />
 </details>
 
-<details>
+<details open>
   <summary>⏰ Development Time Stats</summary>
 
 <!--START_SECTION:waka-->
