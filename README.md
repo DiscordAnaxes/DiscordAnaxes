@@ -15,9 +15,9 @@
 </p>
 
 
-- 🖥 I am currently a manager, web developer and bot developer for **[Blurple Development](https://blurple.gg)**.
+<!--- 🖥 I am currently a manager, web developer and bot developer for **[Blurple Development](https://blurple.gg)**.-->
 
-- 🔨 My current project is **[widget.style](https://widget.style)**. 
+- 🔨 I am currently working on **[widget.style](https://widget.style)**. 
 
 - 🌍 My Personal Website can be found @ **[anaxes.xyz](https://anaxes.xyz)**.
 
