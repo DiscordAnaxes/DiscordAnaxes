@@ -33,6 +33,10 @@
   <summary>⚡ GitHub Statistics</summary> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api?username=DiscordAnaxes&count_private=true&show_icons=true&theme=tokyonight" />
+</details>
+
+<details>
+  <summary>⏰ Development Time Stats</summary>
 
 <!--START_SECTION:waka-->
 ```text
@@ -43,8 +47,8 @@ JSON         8 mins          █░░░░░░░░░░░░░░░░
 JSX          6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
 ```
 <!--END_SECTION:waka-->
-</details>
 
+</details>
 ---
 
 <details open>
