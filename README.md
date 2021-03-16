@@ -40,7 +40,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 March, 2021 - 14 March, 2021
+Week: 08 March, 2021 - 15 March, 2021
 
 HTML         23 mins         ████████████████▒░░░░░░░░   65.25 % 
 JavaScript   11 mins         ███████▓░░░░░░░░░░░░░░░░░   30.96 % 
