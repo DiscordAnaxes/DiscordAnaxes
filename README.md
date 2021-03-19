@@ -40,12 +40,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 10 March, 2021 - 17 March, 2021
+Week: 11 March, 2021 - 18 March, 2021
 
-HTML         54 mins         █████████████████▓░░░░░░░   70.31 % 
-JavaScript   12 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
-JSON         6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
-Git Config   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
+HTML         1 hr 26 mins    ███████████████████▓░░░░░   78.51 % 
+JavaScript   12 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
+JSON         6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
+Git Config   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
 ```
 <!--END_SECTION:waka-->
 
