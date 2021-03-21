@@ -62,6 +62,7 @@ Git Config   3 mins          ▓░░░░░░░░░░░░░░░░
 <img src="https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=HTML5" />
 <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=#1572B6" />
 <img src="https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/Typescript-black?style=for-the-badge&logo=typescript" />
 <img src="https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=Nuxt.js" />
 <img src="https://img.shields.io/badge/Vue-black?style=for-the-badge&logo=Vue.js" />
 <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react" />
