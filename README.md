@@ -71,6 +71,7 @@ JavaScript   7 mins          ▓░░░░░░░░░░░░░░░░
 <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github" />
 <img src="https://img.shields.io/badge/Jetbrains-black?style=for-the-badge&logo=Jetbrains" />
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-black?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" />
+<img src="https://img.shields.io/badge/NPM-black?style=for-the-badge&logo=npm" />
 <img src="https://img.shields.io/badge/Photoshop-black?style=for-the-badge&logo=Adobe%20Photoshop" />
 <img src="https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows" />
 </p>
