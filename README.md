@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, Anaxes here.</h1>
 <h3 align="center">Young Verified Discord Bot Developer, who has an interest in Web Development.</h3>
 <br />
-<h4 align="center">Built by <img src="https://cdn.tixte.com/uploads/cdn.anaxes.xyz/knzxw9qcg9a.png" height="32" width="32" /><h4>
+<h4 align="center">Built with <img src="https://cdn.tixte.com/uploads/cdn.anaxes.xyz/knzxw9qcg9a.png" height="32" width="32" /><h4>
 
 
 <p align="center">
