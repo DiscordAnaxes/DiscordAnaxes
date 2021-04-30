@@ -40,13 +40,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 April, 2021 - 28 April, 2021
+Week: 22 April, 2021 - 29 April, 2021
 
-HTML            10 hrs 26 mins  █████████████████████▓░░░   87.10 % 
-CSS             1 hr 18 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
-Git Config      5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
-Apache Config   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
-JavaScript      3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+HTML            11 hrs 3 mins   █████████████████████░░░░   83.78 % 
+CSS             1 hr 18 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
+Arduino         35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+Git Config      5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+Apache Config   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 ```
 <!--END_SECTION:waka-->
 
