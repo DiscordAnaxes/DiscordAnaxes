@@ -78,6 +78,7 @@ JSON         26 mins         █▒░░░░░░░░░░░░░░░
 <img src="https://img.shields.io/badge/Photoshop-black?style=for-the-badge&logo=Adobe%20Photoshop" />
 <img src="https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows" />
 <img src="https://img.shields.io/badge/Arduino-black?style=for-the-badge&logo=Arduino" />
+  <img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=Figma" />
 <img src="https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=Discord" />
 </p>
 </details>
