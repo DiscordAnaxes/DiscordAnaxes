@@ -19,7 +19,7 @@
 
 - 🔨 I am currently working on **[widget.style](https://widget.style) & [dscjobs](https://dscjobs.org)**. 
 
-- 🛰 I am also a **[PreMiD Presence Developer](https://premid.app/users/567885938160697377)**
+- 🛰 I am also a **[PreMiD Presence Developer](https://premid.app/users/567885938160697377)**.
 
 - 🌍 My Personal Website can be found @ **[anaxes.xyz](https://anaxes.xyz)**.
 
