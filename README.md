@@ -43,7 +43,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 10 June, 2021 - 17 June, 2021
+Week: 11 June, 2021 - 18 June, 2021
 
 JavaScript   1 hr 41 mins    ███████████░░░░░░░░░░░░░░   44.56 % 
 HTML         47 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.96 % 
