@@ -93,3 +93,8 @@ JSON         1 min           ▒░░░░░░░░░░░░░░░░
 <a href="https://pb.anaxes.xyz"><img alt="Potatoe Bot" title="PBOT's Website" height="32" width="32" 
 src="https://i.ibb.co/6NrBXKf/Normal-Flickz-cropped.png" draggable=false></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+<p align="center">
+  <a href="https://discord.com/users/567885938160697377">
+    <img src="https://lanyard-profile-readme.vercel.app/api/567885938160697377" alt="Discord Profile"/>
+  </a>
+</p>
