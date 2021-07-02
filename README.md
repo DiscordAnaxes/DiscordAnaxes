@@ -25,7 +25,7 @@
 
 - 📨 You can reach me @ **[anaxesoce@gmail.com](mailto:anaxesoce@gmail.com)**.
 
-- 📰 You can find my resume @ **[Anaxes' Resume](https://docs.google.com/document/d/1ZZ7ePeJcYf9sR1IBVL3Xn68CFiTX_S7nr_5bWBvPAp8/edit?usp=sharing)**.
+<!--- 📰 You can find my resume @ **[Anaxes' Resume](https://docs.google.com/document/d/1ZZ7ePeJcYf9sR1IBVL3Xn68CFiTX_S7nr_5bWBvPAp8/edit?usp=sharing)**.-->
 
 - ⭐ My goal for 2021 is to contribute to more open source projects.
 
