@@ -23,7 +23,7 @@
 
 - 🌍 My Personal Website can be found @ **[anaxes.xyz](https://anaxes.xyz)**.
 
-- 📨 You can reach me @ **[anaxesoce@gmail.com](mailto:anaxesoce@gmail.com)**.
+- 📨 You can reach me via **[Discord](https://discord.com/users/567885938160697377)** & **[Twitter](https://twitter.com/DiscordAnaxes)**.
 
 <!--- 📰 You can find my resume @ **[Anaxes' Resume](https://docs.google.com/document/d/1ZZ7ePeJcYf9sR1IBVL3Xn68CFiTX_S7nr_5bWBvPAp8/edit?usp=sharing)**.-->
 
