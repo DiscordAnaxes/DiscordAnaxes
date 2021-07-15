@@ -43,10 +43,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 July, 2021 - 13 July, 2021
-
-CSS    6 mins          ████████████████████▓░░░░   82.45 % 
-HTML   1 min           ████▒░░░░░░░░░░░░░░░░░░░░   17.55 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
