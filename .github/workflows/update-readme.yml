@@ -20,6 +20,7 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           username: DiscordAnaxes
+          template: "TEMPLATE.md"
 
       - name: Commit & Push changes
         uses: actions-js/push@master
