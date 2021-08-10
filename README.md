@@ -44,13 +44,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 August, 2021 - 08 August, 2021
+Week: 03 August, 2021 - 09 August, 2021
 
-TypeScript   6 hrs 22 mins   █████████▒░░░░░░░░░░░░░░░   36.76 % 
-HTML         3 hrs 49 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.11 % 
-JavaScript   3 hrs 47 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.88 % 
-PHP          1 hr 15 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
-Markdown     1 hr 6 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
+TypeScript   9 hrs           ████████████▓░░░░░░░░░░░░   50.84 % 
+JavaScript   3 hrs 59 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.50 % 
+HTML         2 hrs 23 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.46 % 
+PHP          1 hr 15 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
+Markdown     23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
 ```
 <!--END_SECTION:waka-->
 
