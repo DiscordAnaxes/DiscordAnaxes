@@ -31,14 +31,6 @@
 
 <br>
 
-<details>
-  <summary>⚡ GitHub Statistics</summary> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api?username=DiscordAnaxes&count_private=true&show_icons=true&theme=tokyonight" />
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=DiscordAnaxes&theme=tokyonight&hide_border=true)" />
-  <img src="https://github-profile-trophy.vercel.app/?username=DiscordAnaxes&theme=dracula" />
-</details>
-
 <details open>
   <summary>⏰ Development Time Stats</summary>
 
