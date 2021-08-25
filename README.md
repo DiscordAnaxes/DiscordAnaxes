@@ -44,9 +44,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 August, 2021 - 23 August, 2021
-
-Markdown   6 mins          ███████████████████████▓░   95.23 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
