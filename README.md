@@ -17,19 +17,17 @@
 
 <!--- 🖥 I am currently a manager, web developer and bot developer for **[Blurple Development](https://blurple.gg)**.-->
 
-- 🔨 I am currently working on **[PBOT](https://pb.anaxes.xyz) & [dscjobs](https://dscjobs.org)**.
+`💻` I am currently working on **[PBOT](https://pb.anaxes.codes) & [ReviewBots](https://reviewbots.xyz)**.
 
-- 🛰 I am also a **[PreMiD Presence Developer](https://premid.app/users/567885938160697377)**.
+`🛰️` I am also a **[PreMiD Presence Developer](https://premid.app/users/567885938160697377)**.
 
-- 📰 Website Moderator @ **[Caards](https://caards.me)**.
+`📰` Website Moderator @ **[Caards](https://caards.me)**.
 
-- 🌍 My Personal Website can be found @ **[anaxes.xyz](https://anaxes.xyz)**.
+`🌍` My Personal Website can be found @ **[anaxes.codes](https://anaxes.codes)**.
 
-- 📨 You can reach me via **[Discord](https://discord.com/users/567885938160697377)** & **[Twitter](https://twitter.com/DiscordAnaxes)**.
+`📨` You can reach me via **[Discord](https://discord.com/users/567885938160697377)** & **[Twitter](https://twitter.com/DiscordAnaxes)**.
 
-<!--- 📰 You can find my resume @ **[Anaxes' Resume](https://docs.google.com/document/d/1ZZ7ePeJcYf9sR1IBVL3Xn68CFiTX_S7nr_5bWBvPAp8/edit?usp=sharing)**.-->
-
-- ⭐ My goal for 2021 is to contribute to more open source projects.
+`⭐` My goal for 2021 is to contribute to more open source projects.
 
 <br>
 
@@ -94,7 +92,7 @@ XML          15 mins         █░░░░░░░░░░░░░░░░
 <a href="https://twitter.com/DiscordAnaxes" target="_blank"><img alt="Twitter" title="Twitter" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://dsc.bio/anaxes" target="_blank"><img alt="Discord" title="Discord" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://reddit.com/u/DiscordAnaxes" target="_blank"><img alt="Reddit" title="Reddit" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://pb.anaxes.xyz"><img alt="Potatoe Bot" title="PBOT's Website" height="32" width="32" 
+<a href="https://pb.anaxes.codes"><img alt="Potatoe Bot" title="PBOT's Website" height="32" width="32" 
 src="https://i.ibb.co/6NrBXKf/Normal-Flickz-cropped.png" draggable=false></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <p align="center">
