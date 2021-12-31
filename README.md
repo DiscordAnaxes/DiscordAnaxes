@@ -27,7 +27,7 @@
 
 `📨` You can reach me via **[Discord](https://discord.com/users/567885938160697377)** & **[Twitter](https://twitter.com/DiscordAnaxes)**.
 
-`⭐` My goal for 2021 is to contribute to more open source projects.
+`⭐` My goal for 2022 is to be more positive.
 
 <br>
 
