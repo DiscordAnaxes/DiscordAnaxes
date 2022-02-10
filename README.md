@@ -44,13 +44,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 January, 2022 - 05 February, 2022
+Week: 03 February, 2022 - 09 February, 2022
 
-TypeScript   6 hrs 8 mins    █████████████████▓░░░░░░░   70.25 % 
-MDX          50 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
-JavaScript   43 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
-XML          41 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
-Other        9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+TypeScript   2 hrs 54 mins   █████████████████▓░░░░░░░   70.94 % 
+XML          31 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.80 % 
+JavaScript   27 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
+Other        8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+Git Config   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 ```
 <!--END_SECTION:waka-->
 
