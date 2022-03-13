@@ -45,7 +45,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 05 March 2022 - To: 12 March 2022
+
+MDX          3 mins          ██████████████████████▒░░   89.63 %
+TypeScript   0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.37 %
 ```
 
 <!--END_SECTION:waka-->
