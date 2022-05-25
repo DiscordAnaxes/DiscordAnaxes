@@ -45,11 +45,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 May 2022 - To: 23 May 2022
+From: 17 May 2022 - To: 24 May 2022
 
-TypeScript   1 hr 11 mins    ████████████████████████░   96.55 %
-JavaScript   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
-Markdown     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+TypeScript   2 hrs           ████████████████████████▒   97.92 %
+JavaScript   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
 Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
