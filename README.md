@@ -45,12 +45,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 July 2022 - To: 01 August 2022
+From: 30 July 2022 - To: 06 August 2022
 
-Java         5 hrs 15 mins   ██████████████████████░░░   88.52 %
-Vim Script   37 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.64 %
-JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
-Lua          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Java         5 hrs 46 mins   █████████████████▒░░░░░░░   69.09 %
+Vim Script   1 hr 11 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.32 %
+TypeScript   56 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.21 %
+MDX          26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
 ```
 
 <!--END_SECTION:waka-->
