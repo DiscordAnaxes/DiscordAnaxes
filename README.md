@@ -45,9 +45,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 September 2022 - To: 10 September 2022
+From: 05 September 2022 - To: 12 September 2022
 
-XML   1 min           █████████████████████████   100.00 %
+Java   2 hrs 34 mins   ████████████████████████▓   98.85 %
+XML    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
 ```
 
 <!--END_SECTION:waka-->
