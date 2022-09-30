@@ -45,9 +45,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 September 2022 - To: 28 September 2022
+From: 22 September 2022 - To: 29 September 2022
 
-Java   1 hr 6 mins     █████████████████████████   100.00 %
+Java         1 hr 6 mins     ████████████████░░░░░░░░░   63.89 %
+TypeScript   34 mins         ████████▒░░░░░░░░░░░░░░░░   33.48 %
+JSON         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
 ```
 
 <!--END_SECTION:waka-->
