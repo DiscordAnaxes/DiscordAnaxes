@@ -45,10 +45,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 October 2022 - To: 06 November 2022
+From: 31 October 2022 - To: 07 November 2022
 
-JSON         0 secs          ██████████████████░░░░░░░   72.24 %
-TypeScript   0 secs          ███████░░░░░░░░░░░░░░░░░░   27.76 %
+TypeScript   7 mins          ██████████████████████░░░   88.32 %
+Markdown     0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.48 %
+JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
 ```
 
 <!--END_SECTION:waka-->
