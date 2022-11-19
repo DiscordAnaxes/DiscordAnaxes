@@ -17,11 +17,9 @@
 
 <!--- 🖥 I am currently a manager, web developer and bot developer for **[Blurple Development](https://blurple.gg)**.-->
 
-`💻` I am currently working on **[PBOT](https://pb.anaxes.codes) & [ReviewBots](https://reviewbots.xyz)**.
+`💻` I am currently working on **[DisWidgets 🖥️](https://beta.diswidgets.org) & [Dasu 🎁](https://dasu.gg)**.
 
 `🛰️` I am also a **[PreMiD Presence Developer](https://premid.app/users/567885938160697377)**.
-
-`📰` Website Moderator @ **[Caards](https://caards.me)**.
 
 `🌍` My Personal Website can be found @ **[anaxes.codes](https://anaxes.codes)**.
 
