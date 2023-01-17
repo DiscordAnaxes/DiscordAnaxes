@@ -25,7 +25,7 @@
 
 `📨` You can reach me via **[Discord](https://discord.com/users/567885938160697377)** & **[Twitter](https://twitter.com/DiscordAnaxes)**.
 
-`⭐` My goal for 2022 is to be more positive.
+`⭐` My goal for 2023 is to read more books and to be more positive.
 
 <br>
 
