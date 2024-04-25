@@ -42,8 +42,14 @@
 
 <!--START_SECTION:waka-->
 
-```text
-No activity tracked
+```txt
+From: 17 April 2024 - To: 24 April 2024
+
+TypeScript   10 hrs 38 mins  ██████████████████████▓░░   90.65 %
+Svelte       35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 %
+JSON         16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
+Other        10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+JavaScript   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
 ```
 
 <!--END_SECTION:waka-->
