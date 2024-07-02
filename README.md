@@ -43,13 +43,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 June 2024 - To: 30 June 2024
+From: 24 June 2024 - To: 01 July 2024
 
-TypeScript   1 hr 14 mins    █████████████░░░░░░░░░░░░   52.54 %
-JSON         33 mins         ██████░░░░░░░░░░░░░░░░░░░   23.97 %
-TOML         22 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.59 %
-Bash         5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
-SQL          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
