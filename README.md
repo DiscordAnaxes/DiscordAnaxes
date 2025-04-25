@@ -33,10 +33,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 April 2025 - To: 23 April 2025
+From: 17 April 2025 - To: 24 April 2025
 
-JSON   11 mins         █████████████████████████   99.76 %
-SCSS   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
