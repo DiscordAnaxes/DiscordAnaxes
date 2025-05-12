@@ -33,10 +33,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 May 2025 - To: 10 May 2025
+From: 04 May 2025 - To: 11 May 2025
 
-Bash         2 mins          ███████████████░░░░░░░░░░   59.73 %
-TypeScript   1 min           ██████████░░░░░░░░░░░░░░░   40.27 %
+TypeScript   53 mins         ███████████████████████▓░   95.23 %
+Bash         2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
