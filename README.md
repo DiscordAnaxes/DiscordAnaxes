@@ -33,11 +33,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 May 2025 - To: 03 June 2025
+From: 28 May 2025 - To: 04 June 2025
 
-HTML         19 mins         ██████████████████░░░░░░░   71.79 %
-TypeScript   6 mins          ██████░░░░░░░░░░░░░░░░░░░   24.45 %
-YAML         1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
+TypeScript   6 mins          █████████████████▒░░░░░░░   68.70 %
+HTML         2 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.73 %
+YAML         1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.57 %
 ```
 
 <!--END_SECTION:waka-->
