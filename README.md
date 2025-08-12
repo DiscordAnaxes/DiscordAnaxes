@@ -33,7 +33,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 August 2025 - To: 10 August 2025
+From: 04 August 2025 - To: 11 August 2025
 
 JavaScript   7 hrs 20 mins   ██████████████░░░░░░░░░░░   55.59 %
 Other        1 hr 55 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.55 %
