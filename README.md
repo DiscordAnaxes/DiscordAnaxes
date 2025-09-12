@@ -33,13 +33,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 September 2025 - To: 10 September 2025
+From: 04 September 2025 - To: 11 September 2025
 
-JavaScript   6 hrs 50 mins   █████████████████████▒░░░   85.30 %
-Other        40 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 %
-JSON         13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
-Bash         13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
-CSS          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+JavaScript   6 hrs 51 mins   ██████████████████████▒░░   89.22 %
+Other        23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
+JSON         13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
+Bash         11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
+CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 ```
 
 <!--END_SECTION:waka-->
