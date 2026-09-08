@@ -33,13 +33,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 August 2026 - To: 06 September 2026
+From: 31 August 2026 - To: 07 September 2026
 
-TypeScript   4 hrs 23 mins         ██████████████▓░░░░░░░░░░   58.61 %
-JSON         1 hr 5 mins           ███▓░░░░░░░░░░░░░░░░░░░░░   14.68 %
-Python       1 hr                  ███▒░░░░░░░░░░░░░░░░░░░░░   13.49 %
-JavaScript   20 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
-MDX          19 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
+TypeScript   5 hrs 28 mins         █████████▓░░░░░░░░░░░░░░░   38.83 %
+Go           4 hrs 33 mins         ████████░░░░░░░░░░░░░░░░░   32.37 %
+JSON         1 hr 12 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 %
+Python       1 hr                  █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
+JavaScript   31 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
 ```
 
 <!--END_SECTION:waka-->
