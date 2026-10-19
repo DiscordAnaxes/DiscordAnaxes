@@ -33,13 +33,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 October 2026 - To: 17 October 2026
+From: 11 October 2026 - To: 18 October 2026
 
-Python       4 hrs 14 mins         ██████████████████████░░░   87.60 %
-TypeScript   33 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.69 %
-Bash         1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
-JSON         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-Markdown     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Python       3 hrs 3 mins          █████████████████████░░░░   83.61 %
+TypeScript   33 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.51 %
+Bash         1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+JSON         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
